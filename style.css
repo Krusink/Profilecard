@@ -43,7 +43,7 @@ body {
     height: 140px;
     position: absolute;
     border-radius: 15px 15px 0 0;
-    background-image: url(../images/bg-pattern-card.svg);
+    background-image: url(./images/bg-pattern-card.svg);
 }
 .profile_card__profile {
     width: 100px;
